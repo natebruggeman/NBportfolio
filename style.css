@@ -60,7 +60,7 @@ section .title::after {
   bottom: -180px;
   left: 50%;
   font-size: 20px;
-  color: crimson;
+  color: lightskyblue;
   padding: 5px;
   background: #fff;
   transform: translateX(-50%);
@@ -95,7 +95,7 @@ section .title::after {
   font-weight: 600;
 }
 .navbar .logo a span {
-  color: crimson;
+  color: lightskyblue;
 }
 
 .navbar .menu li {
@@ -110,7 +110,7 @@ section .title::after {
   transition: color 0.3s ease;
 }
 .navbar .menu li a:hover {
-  color: crimson;
+  color: lightskyblue;
 }
 /* menu btn styling */
 .menu-btn {
@@ -153,18 +153,18 @@ section .title::after {
   margin: 5px 0;
 }
 .home .home-content .text-3 span {
-  color: crimson;
+  color: lightskyblue;
   font-weight: 500;
 }
 .home .max-width .home-content a {
   display: inline-block;
-  background: crimson;
+  background: lightskyblue;
   color: #fff;
   font-size: 25px;
   padding: 12px 36px;
   margin-top: 20px;
   border-radius: 6px;
-  border: 2px solid crimson;
+  border: 2px solid lightskyblue;
   transition: all 0.3s ease;
 }
 .home .home-content a:hover {
@@ -195,7 +195,7 @@ section .title::after {
   margin-bottom: 10px;
 }
 .about .about-content .right .text span {
-  color: crimson;
+  color: lightskyblue;
 }
 .about .about-content .right p {
   text-align: justify;
@@ -203,17 +203,17 @@ section .title::after {
 }
 .about .about-content .right a {
   display: inline-block;
-  background: crimson;
+  background: lightskyblue;
   color: #fff;
   font-size: 20px;
   padding: 10px 30px;
   margin-top: 20px;
   border-radius: 6px;
-  border: 2px solid crimson;
+  border: 2px solid lightskyblue;
   transition: all 0.3s ease;
 }
 .about .about-content .right a:hover {
-  color: crimson;
+  color: lightskyblue;
   background: none;
 }
 
@@ -244,7 +244,7 @@ section .title::after {
   transition: all 0.3s ease;
 }
 .services .serv-content .card:hover {
-  background: crimson;
+  background: lightskyblue;
 }
 .services .serv-content .card .box {
   transition: all 0.3s ease;
@@ -254,7 +254,7 @@ section .title::after {
 }
 .services .serv-content .card i {
   font-size: 50px;
-  color: crimson;
+  color: lightskyblue;
   transition: color 0.3s ease;
 }
 .services .serv-content .card:hover i {
@@ -280,17 +280,17 @@ section .title::after {
 }
 .skills .skills-content .left a {
   display: inline-block;
-  background: crimson;
+  background: lightskyblue;
   color: #fff;
   font-size: 18px;
   padding: 8px 18px;
   margin-top: 20px;
   border-radius: 6px;
-  border: 2px solid crimson;
+  border: 2px solid lightskyblue;
   transition: all 0.3s ease;
 }
 .skills .skills-content .left a:hover {
-  color: crimson;
+  color: lightskyblue;
   background: none;
 }
 .skills .skills-content .right .bars {
@@ -318,7 +318,7 @@ section .title::after {
   height: 100%;
   left: 0;
   top: 0;
-  background: crimson;
+  background: lightskyblue;
 }
 .skills-content .right .html::before {
   width: 95%;
@@ -348,7 +348,7 @@ section .title::after {
   transition: all 0.3s ease;
 }
 .teams .carousel .card:hover {
-  background: crimson;
+  background: lightskyblue;
 }
 .teams .carousel .card .box {
   display: flex;
@@ -385,7 +385,7 @@ section .title::after {
   margin: 0 5px;
   outline: none !important;
   border-radius: 50%;
-  border: 2px solid crimson !important;
+  border: 2px solid lightskyblue !important;
 }
 .owl-dot.active {
   width: 35px;
@@ -393,7 +393,7 @@ section .title::after {
 }
 .owl-dot.active,
 .owl-dot:hover {
-  background: crimson !important;
+  background: lightskyblue !important;
 }
 
 /* contact section style */
@@ -425,7 +425,7 @@ section .title::after {
 }
 .contact .contact-content .row i {
   font-size: 25px;
-  color: crimson;
+  color: lightskyblue;
 }
 .contact .contact-content .info {
   font-weight: 500;
