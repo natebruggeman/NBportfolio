@@ -199,6 +199,7 @@ section .title::after {
 }
 .about .about-content .right p {
   text-align: justify;
+  text-indent: 40px;
 }
 .about .about-content .right a {
   display: inline-block;
